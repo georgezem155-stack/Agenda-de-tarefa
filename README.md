@@ -18,4 +18,6 @@ Um gerenciador de tarefas simples via terminal desenvolvido em Python. Permite a
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/georgezem155-stack/Agenda-de-tarefas.git](https://github.com/georgezem155-stack/Agenda-de-tarefas.git)
+git clone https://github.com/georgezem155-stack/Agenda-de-tarefas.git'''
+   cd Agenda-de-tarefas
+python main.py
